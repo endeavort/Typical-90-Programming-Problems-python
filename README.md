@@ -4,6 +4,9 @@
 
 難易度順に解いてます
 
-|                                    問題                                    |       アルゴリズム       | コード |
-| :------------------------------------------------------------------------: | :----------------------: | :----: |
-| [Cross Sum（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_d) | 累積和・前処理・包除原理 |        |
+## レベル2
+
+| No | 問題 | アルゴリズム | コード |
+| :----: | :----: | :----: | :----: |
+| 4 | [Cross Sum（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_d) | 累積和・前処理・包除原理 | [リンク](https://github.com/endeavort/Typical-90-Programming-Problems-python/blob/main/Level_2/cross_sum.py) |
+| 10 | [Score Sum Queries（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_j) | | |
