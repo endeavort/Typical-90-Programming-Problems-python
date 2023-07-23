@@ -14,6 +14,7 @@
 | 24 | [Select +／- One（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_x) | 偶奇：パリティ | [python](https://github.com/endeavort/Typical-90-Programming-Problems-python/blob/main/Level_2/select_one.py) |
 | 27 | [Sign Up Requests （★2）](https://atcoder.jp/contests/typical90/tasks/typical90_aa) | 集合(set)型 | [python](https://github.com/endeavort/Typical-90-Programming-Problems-python/blob/main/Level_2/sign_up_requests.py) |
 | 33 | [Not Too Bright（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_ag) | コーナーケース | [python](https://github.com/endeavort/Typical-90-Programming-Problems-python/blob/main/Level_2/not_too_bright.py) |
+| 55 | [Select 5（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_bc) | 定数倍の見積もり・計算の工夫 | [python](https://github.com/endeavort/Typical-90-Programming-Problems-python/blob/main/Level_2/select5.py) |
 |  | [](https://atcoder.jp/contests/typical90/tasks/typical90_) |  | [python](https://github.com/endeavort/Typical-90-Programming-Problems-python/blob/main/Level_2/.py) |
 
 
